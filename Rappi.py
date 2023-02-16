@@ -46,3 +46,5 @@ if "vacaciones" in funcion.split():
 #MOSTRAR INFOMACION PERSONAL --- GLOBAL
 if "info personal" or "informacion personal" or "personal" in funcion:
     mostrar_info_personal()
+# Esto muestra que mis ideas sobre un commit funciona!
+#VEAMOS
